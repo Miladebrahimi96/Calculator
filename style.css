@@ -81,3 +81,7 @@ button:hover {
 button:active {
     transform: scale(.9);
 }
+
+i {
+    pointer-events: none;
+}
